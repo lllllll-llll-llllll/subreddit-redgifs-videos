@@ -12,7 +12,7 @@ process:
 - videos that are downloaded are filtered according to settings. if they fail something they are deleted.
 
 
-things to improve:
+ideas:
 - prevent duplicate entries in "downloads.txt"
-- check video stream metadata BEFORE downloading (perhaps via ffprobe)
+- check video stream metadata BEFORE downloading, with ffprobe? could then remove _videos and _fielgetproperty UDFs
 - 
